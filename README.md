@@ -12,7 +12,7 @@ I'm always excited to connect with people who are building the future of tech!
 ## 🌐 Connect with Me:
 [![Gmail](https://img.shields.io/badge/juanemallma@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanemallma@gmail.com)
 [![GitHub](https://img.shields.io/badge/chaldiran527-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaldiran527)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-mallma-zamora-58473139a/)
 
 <br>
 
